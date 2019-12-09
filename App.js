@@ -42,6 +42,7 @@ const App = () => {
     setInputOne(0)
     setInputTwo(0)
     setInputThree(0)
+    setResults(0)
   }
 
   //convert to number
